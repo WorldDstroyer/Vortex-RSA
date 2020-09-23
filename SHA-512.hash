@@ -1,0 +1,6 @@
+Notice: Each executable is built using Python 3.8.5, and PyInstaller 4.0.
+Build Command (Windows): "pyinstaller.exe --onefile --icon=Vortex-Icon.ico Vortex-RSA-#.#.#.py"
+Hash Command (Windows): "certutil -hashfile Vortex-RSA-#.#.#.exe sha512"
+
+- Version History Digest, Vortex-RSA (SHA-512) -
+0.5.0: c1ac5e12fcf922f2d0e2080c46e712f52ea80f73f0363649b19d6200697be01a46a99ed62a00bea3977463123eb731ed4803b91e78da53aed62bd60a60893f3b
