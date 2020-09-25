@@ -35,6 +35,8 @@ only be decrypted using the other. This is a smart way to disseminate secrets op
 public key, send them the ciphertext written to -your- (Data_Encrypted.bin) file, and have them
 move it into their "Data-Import" folder.
 -----------------------------------------------------------------------------------------------------'''
+Shell_Color = "color b"
+os.system(Shell_Color)
 print(Program_Header)
 
 def Key_Generation():
