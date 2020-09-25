@@ -4,3 +4,4 @@ Hash Command (Windows): "certutil -hashfile Vortex-RSA-#.#.#.exe sha512"
 
 - Version History Digest, Vortex-RSA (SHA-512) -
 0.5.0: c1ac5e12fcf922f2d0e2080c46e712f52ea80f73f0363649b19d6200697be01a46a99ed62a00bea3977463123eb731ed4803b91e78da53aed62bd60a60893f3b
+1.0.0: 2459ae4727cb84615fa7dfca2607f031e16e6eb9de39fcea44c9d073b935906572f9772cfcb237a25e3d8ee8a2f48b4f1ebe80f22ff537803e15458af23715c0
